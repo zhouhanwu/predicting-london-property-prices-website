@@ -1,6 +1,10 @@
 ## London Housing Visualizer
 
-Static web app to explore London housing prices and metrics by borough and outward postcode.
+Web app to explore London housing prices and metrics by borough and outward postcode.
+
+### Public website link
+
+https://predicting-london-property-prices-w.vercel.app/
 
 ### Run locally
 ```bash
